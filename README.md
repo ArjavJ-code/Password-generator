@@ -15,6 +15,8 @@ You can choose the password length, include numbers, and special characters, and
 
 ---
 
+![Password Generator Screenshot](screenshot.png) 
+
 ## Tech Stack
 
 - **React** (with Hooks)
